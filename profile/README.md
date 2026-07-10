@@ -136,7 +136,7 @@ The long-term vision is that an Open Engineering Element can be declared once an
 ⸻
 
 ## Repository Structure
-
+```
 .
 ├── .github/
 ├── docs/
@@ -148,7 +148,7 @@ The long-term vision is that an Open Engineering Element can be declared once an
 ├── examples/
 ├── tests/
 └── README.md
-
+```
 Each runtime follows the same conventions used throughout the Open Engineering ecosystem.
 
 ⸻
