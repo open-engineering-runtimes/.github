@@ -2,6 +2,8 @@
 
 Bringing Open Engineering Elements to life.
 
+![Open Engineering Runtimes hero-banner](./hero-banner.png)
+
 Open Engineering Runtimes is part of the Open Engineering ecosystem.
 
 Its mission is to transform reusable Open Engineering Elements into running software, services, experiences, and systems.
